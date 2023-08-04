@@ -13,8 +13,8 @@ To ensure a fair and thrilling contest, we’ve established specific parameters 
 ## Key Steps:
   ## 1.Web Scraping Data from ESPN Cricinfo:
 
-  • Utilized the third-party web scraper "Bright Data" to effectively gather information from the ESPN Cricinfo website, including match data, results, player batting data, and bowling   
-   data.
+  • Utilized the third-party web scraper "Bright Data" to effectively gather information from the ESPN Cricinfo website, including match data, results, player batting data, and bowling     data.
+   
   •The scraped data was stored in the form of JSON for further processing.
 
 ## 2.Data Transformation and Conversion:
